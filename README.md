@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning on AIML📃Check out my resume here-<br>💻All of my projects are available on-GitHub<br>💬 Ask me about programming,web development<br>⚡ Reach out to me at kawshikks8@gmail.com
+🔭 I’m currently learning on AIML<br>📃Check out my resume here-<br>💻All of my projects are available on-GitHub<br>💬 Ask me about programming,web development<br>⚡ Reach out to me at kawshikks8@gmail.com
 
 
 ## 🌐 Socials:
