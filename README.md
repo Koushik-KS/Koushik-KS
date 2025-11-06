@@ -1,13 +1,9 @@
-
-// AboutMe.jsx
-export default function AboutMe() {
-  return (
-    <section className="bg-white py-10 px-6 max-w-3xl mx-auto text-gray-800">
+<section className="bg-white py-10 px-6 max-w-3xl mx-auto text-gray-800">
       <h2 className="text-3xl font-bold mb-6">💫 About Me</h2>
       <ul className="space-y-4 text-lg">
         <li>🔭 I’m currently learning AIML</li>
         <li>
-          📃 Check out my resume here —{" "}
+          📃 Check out my resume here —
           <a
             href="#"
             target="_blank"
@@ -18,7 +14,7 @@ export default function AboutMe() {
           </a>
         </li>
         <li>
-          💻 All of my projects are available on —{" "}
+          💻 All of my projects are available on —
           <a
             href="https://github.com/Koushik-KS?tab=repositories"
             target="_blank"
@@ -32,8 +28,6 @@ export default function AboutMe() {
         <li>⚡ Reach out to me at <span className="font-medium">kawshikks8@gmail.com</span></li>
       </ul>
     </section>
-  );
-}
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kawshikks8@gmail.com) 
