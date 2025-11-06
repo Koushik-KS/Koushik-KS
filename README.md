@@ -1,6 +1,39 @@
-# 💫 About Me:
-🔭 I’m currently learning on AIML<br>📃Check out my resume here-<br>💻All of my projects are available on-(https://github.com/Koushik-KS?tab=repositories)<br>💬 Ask me about programming,web development<br>⚡ Reach out to me at kawshikks8@gmail.com
 
+// AboutMe.jsx
+export default function AboutMe() {
+  return (
+    <section className="bg-white py-10 px-6 max-w-3xl mx-auto text-gray-800">
+      <h2 className="text-3xl font-bold mb-6">💫 About Me</h2>
+      <ul className="space-y-4 text-lg">
+        <li>🔭 I’m currently learning AIML</li>
+        <li>
+          📃 Check out my resume here —{" "}
+          <a
+            href="#"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-600 underline hover:text-blue-800"
+          >
+            Resume Link
+          </a>
+        </li>
+        <li>
+          💻 All of my projects are available on —{" "}
+          <a
+            href="https://github.com/Koushik-KS?tab=repositories"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-600 underline hover:text-blue-800"
+          >
+            GitHub
+          </a>
+        </li>
+        <li>💬 Ask me about programming, web development</li>
+        <li>⚡ Reach out to me at <span className="font-medium">kawshikks8@gmail.com</span></li>
+      </ul>
+    </section>
+  );
+}
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kawshikks8@gmail.com) 
