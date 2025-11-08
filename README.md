@@ -1,5 +1,4 @@
-
- <section className="bg-white py-10 px-6 max-w-3xl mx-auto text-gray-800">
+<section className="bg-white py-10 px-6 max-w-3xl mx-auto text-gray-800">
       <h2 className="text-3xl font-bold mb-6">💫 About Me</h2>
       <ul className="space-y-4 text-lg">
         <li>🔭 I’m currently learning <span className="font-semibold">AIML</span></li>
