@@ -7,7 +7,7 @@
  <li>
       📃 Check out my resume —
       <a
-        href="file:///C:/Users/KOUSHIK%20KS%20SHETTY/OneDrive/Desktop/kouresume/main.pdf"
+        href="https://drive.google.com/file/d/1yowzldqHQgt-CMnhf1sNHNlpQ2hmDiVz/view?usp=drive_link"
         target="_blank"
         rel="noopener noreferrer"
         className="text-blue-600 underline ml-1 hover:text-blue-800"
