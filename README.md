@@ -7,7 +7,7 @@
  <li>
       📃 Check out my resume —
       <a
-        href="https://drive.google.com/file/d/1yowzldqHQgt-CMnhf1sNHNlpQ2hmDiVz/view?usp=drive_link"
+        href="https://drive.google.com/file/d/1yAbj8bEwGTilAjiTzH-ZyoGpK3R6jk_J/view?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         className="text-blue-600 underline ml-1 hover:text-blue-800"
