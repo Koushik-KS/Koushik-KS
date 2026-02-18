@@ -1,3 +1,9 @@
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Koushik-KS&label=Profile%20views&color=0e75b6&style=flat)
+
+
+
 <section className="bg-white py-10 px-6 max-w-3xl mx-auto text-gray-800">
   <h2 className="text-3xl font-bold mb-6">💫 About Me</h2>
 
